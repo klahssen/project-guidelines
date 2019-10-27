@@ -10,7 +10,7 @@ Methodology to fix a vision and some measurable outcomes to judge on success.
 - should be inspiring and challenging
 - have a deadline (6 or 12 weeks)
 
-Example: increase revenu from product A
+Example: increase revenue from product A
 
 ## Key-Results
 
